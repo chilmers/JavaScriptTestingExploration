@@ -1,4 +1,4 @@
-ExploreJsTestDriver
+JavaScriptTestingExploration
 ===================
 
 Simple project that shows how to use JsTestDriver.
