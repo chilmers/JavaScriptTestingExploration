@@ -4,9 +4,12 @@ JavaScriptTestingExploration
 Simple project that shows how to use JsTestDriver.
 Also includes a test case using JsMockito.
 
-1. Run get-jar.sh
-2. Run start-server.sh
-3. Run run-tests.sh
+1. Download JsTestDriver
+  	> get-jar.sh
+2. Start the server and open a browser slave to execute tests
+	> start-server.sh
+3. Run the tests
+	> run-tests.sh
 
 For more intricate details on how to use JsTestDriver, check http://code.google.com/p/js-test-driver/
 
